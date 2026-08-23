@@ -1,0 +1,1 @@
+Mostrando información del usuario.
